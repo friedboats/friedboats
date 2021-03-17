@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @friedboats
+- 👀 I’m interested in UX and coding
+- 🌱 I’m currently learning React, Next.js and Emotion
+- 💞️ I’m looking to collaborate on UX, style guides and React
+- 📫 How to reach me nick.bence@gmail.com
